@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.karljosephhale.octapla",
+      "sha256_cert_fingerprints": [
+        "EB:B5:D7:8B:B7:B9:30:62:5A:AF:C9:9E:70:21:85:02:63:B1:13:9F:D1:D3:B1:53:38:EB:66:44:70:56:FD:E8"
+      ]
+    }
+  }
+]
