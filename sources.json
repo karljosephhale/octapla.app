@@ -1,0 +1,272 @@
+[
+  {
+    "code": "kjv",
+    "name": "King James Version (1769)",
+    "language": "en",
+    "source": "eBible.org eng-kjv2006",
+    "url": "https://eBible.org/Scriptures/eng-kjv2006_usfm.zip",
+    "fetchedAt": "2026-09-21",
+    "sha256": "58a1b88c42f1c923bf1aae2fafdfcb0468d02b15c4cf1b0a5b7d93ab537061bb",
+    "corpusSha256": "b7e90c7de4b58685be118805584c4822c0adeace47b992a770cba4f07042adb8",
+    "rights": "Public Domain outside the United Kingdom. In the UK, printing rights are held under letters patent (Cambridge University Press, Oxford University Press, Collins). eBible.org edition: standardized 1769 text, protocanon only, Strong's numbers added (stripped at ingestion).",
+    "attribution": {
+      "line": "Public domain outside the UK",
+      "notices": [
+        "Public domain outside the United Kingdom. In the UK, printing rights are held under letters patent by Cambridge University Press, Oxford University Press and Collins.",
+        "The standardized 1769 text, as edited by eBible.org. Octapla shows the verse text only; the Strong's numbers in that edition are left out."
+      ],
+      "source": {
+        "text": "eBible.org (eng-kjv2006)",
+        "url": "https://ebible.org/find/details.php?id=eng-kjv2006"
+      },
+      "pinned": false
+    },
+    "verses": 31102
+  },
+  {
+    "code": "lsg1910",
+    "name": "Louis Segond 1910",
+    "language": "fr",
+    "source": "eBible.org fraLSG",
+    "url": "https://eBible.org/Scriptures/fraLSG_usfm.zip",
+    "fetchedAt": "2026-09-21",
+    "sha256": "3a0615e992ffd412b1afcaed50d146bba5ec8ae2378f04ca71459a4cd2d7cc33",
+    "corpusSha256": "8949fcdf5f0c07269c147af0b803c829ee8f5e281a671c2477e123c1304d9fc5",
+    "rights": "Public Domain. \"Cette Bible est dans le domaine public. Il n'est pas protégé par copyright.\" (eBible.org). The eBible.org archive also contains book introductions, section headings and cross-references; ingestion keeps verse text only.",
+    "attribution": {
+      "line": "Public domain",
+      "notices": [
+        "Public domain: \"Cette Bible est dans le domaine public. Il n'est pas protégé par copyright.\" (eBible.org)",
+        "Octapla shows the verse text only; the book introductions, section headings and cross-references in the eBible.org edition are left out."
+      ],
+      "source": {
+        "text": "eBible.org (fraLSG)",
+        "url": "https://ebible.org/find/details.php?id=fraLSG"
+      },
+      "pinned": false
+    },
+    "verses": 31170
+  },
+  {
+    "code": "bsb",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "source": "eBible.org engbsb",
+    "url": "https://eBible.org/Scriptures/engbsb_usfm.zip",
+    "fetchedAt": "2026-09-21",
+    "sha256": "c065fa11decc416071985692b959dbd49506b188dc354e37805941f248b3da9e",
+    "corpusSha256": "12cc9ab402fd7fea6acb960e73e04b6bd361d59899ac6ba53289b03cc53cc227",
+    "rights": "Public Domain. \"The Berean Bible and Majority Bible texts are officially dedicated to the public domain as of April 30, 2023.\" (berean.bible/terms.htm). The publishers ask that derivative works varying from the official text not use the Berean name; ingestion keeps the verse text unaltered (headings and footnotes are dropped, not changed). Attribution appreciated: Bible Hub, Discovery Bible, OpenBible.com and the Berean Bible Translation Committee.",
+    "attribution": {
+      "line": "Public domain",
+      "notices": [
+        "Dedicated to the public domain by its publishers on 30 April 2023.",
+        "With thanks to the Berean Bible Translation Committee, Bible Hub, Discovery Bible and OpenBible.com.",
+        "Octapla shows the verse text unaltered; headings and footnotes are left out, not changed."
+      ],
+      "source": {
+        "text": "eBible.org (engbsb)",
+        "url": "https://ebible.org/find/details.php?id=engbsb"
+      },
+      "pinned": false
+    },
+    "verses": 31086,
+    "omits": [
+      "Matthew 17:21",
+      "Matthew 18:11",
+      "Matthew 23:14",
+      "Mark 7:16",
+      "Mark 9:44",
+      "Mark 9:46",
+      "Mark 11:26",
+      "Mark 15:28",
+      "Luke 17:36",
+      "Luke 23:17",
+      "John 5:4",
+      "Acts 8:37",
+      "Acts 15:34",
+      "Acts 24:7",
+      "Acts 28:29",
+      "Romans 16:24"
+    ]
+  },
+  {
+    "code": "luther1912",
+    "name": "Luther 1912",
+    "language": "de",
+    "source": "eBible.org deu1912",
+    "url": "https://eBible.org/Scriptures/deu1912_usfm.zip",
+    "fetchedAt": "2026-09-21",
+    "sha256": "650a8192134a8f0057286c469754edcfaee4fbb18800621aee4563f3055bb39b",
+    "corpusSha256": "2ec665a6910ffd93ef624fbe0d398b170a160dde9b3cf6f041ea473e3a8969f5",
+    "rights": "Public Domain (eBible.org). Ingestion keeps verse text only.",
+    "attribution": {
+      "line": "Public domain",
+      "notices": [
+        "Public domain (eBible.org).",
+        "Octapla shows the verse text only."
+      ],
+      "source": {
+        "text": "eBible.org (deu1912)",
+        "url": "https://ebible.org/find/details.php?id=deu1912"
+      },
+      "pinned": false
+    },
+    "verses": 31102
+  },
+  {
+    "code": "rvr1909",
+    "name": "Reina-Valera 1909",
+    "language": "es",
+    "source": "eBible.org spaRV1909",
+    "url": "https://eBible.org/Scriptures/spaRV1909_usfm.zip",
+    "fetchedAt": "2026-09-21",
+    "sha256": "b5bfac87199a561fcbacb5e32be5d8d280934b1c6830088d9eb8c68ffbfbe711",
+    "corpusSha256": "17474de4335fe6a77426f0bedd9f5f4d7a72b04c1bb12d72441a42151d3d7767",
+    "rights": "Public Domain (eBible.org). Ingestion keeps verse text only.",
+    "attribution": {
+      "line": "Public domain",
+      "notices": [
+        "Public domain (eBible.org).",
+        "Octapla shows the verse text only."
+      ],
+      "source": {
+        "text": "eBible.org (spaRV1909)",
+        "url": "https://ebible.org/find/details.php?id=spaRV1909"
+      },
+      "pinned": false
+    },
+    "verses": 31084,
+    "emptyVerseNumbers": [
+      "Numbers 12:16",
+      "Numbers 29:40",
+      "1 Samuel 23:29",
+      "2 Samuel 20:26",
+      "2 Chronicles 33:25",
+      "Job 35:16",
+      "Job 38:39",
+      "Job 38:40",
+      "Job 38:41",
+      "Job 40:20",
+      "Job 40:21",
+      "Job 40:22",
+      "Job 40:23",
+      "Job 40:24",
+      "Hosea 11:12",
+      "Jonah 1:17",
+      "Acts 19:41",
+      "2 Corinthians 13:14"
+    ]
+  },
+  {
+    "kind": "cross-references",
+    "code": "openbible-xrefs",
+    "name": "Suggested links",
+    "source": "OpenBible.info",
+    "url": "https://a.openbible.info/data/cross-references.zip",
+    "header": "From Verse\tTo Verse\tVotes\t#www.openbible.info CC-BY 2026-09-21",
+    "fetchedAt": "2026-09-24",
+    "sha256": "83e9db0a08054ed99848531512729f0190dbbac85416f408f2362b5dc36d421d",
+    "file": "xrefs-openbible.tsv",
+    "corpusSha256": "bcba37df2bb5ab692a4042a09020a3a8e16dcc2f4bae596cd1e6013cfde21483",
+    "rights": "Creative Commons Attribution (CC BY), stated in the file's header line (\"#www.openbible.info CC-BY\"). Cross-references from OpenBible.info, based mostly on the Treasury of Scripture Knowledge (public domain), with votes from visitors to openbible.info. Ingestion drops references with zero or fewer votes and any whose end is not a KJV verse; nothing is renumbered.",
+    "attribution": {
+      "line": "Cross references from OpenBible.info, CC BY",
+      "link": {
+        "text": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "notices": [
+        "Cross references from OpenBible.info, licensed under Creative Commons Attribution (CC BY), drawing on the Treasury of Scripture Knowledge.",
+        "Suggested links are shown for a pinned passage, ordered by the votes of visitors to openbible.info. The votes are not shown, and suggestions are never counted, searched, synced or exported as your own links are.",
+        "Left out: references with zero or fewer votes, those that point into the passage they come from, and those that touch 3 John 1:15, a verse the KJV does not number separately (its words are in 1:14). Nothing is renumbered."
+      ],
+      "source": {
+        "text": "OpenBible.info cross references",
+        "url": "https://www.openbible.info/labs/cross-references/"
+      },
+      "pinned": false
+    },
+    "references": 341211,
+    "dropped": {
+      "votesZeroOrLess": 3517,
+      "notKjv": 5,
+      "notKjvLines": [
+        "Acts.11.30\t2John.1.1-3John.1.15\t2",
+        "1Pet.5.1\t2John.1.1-3John.1.15\t7",
+        "1John.3.18\t2John.1.1-3John.1.15\t11",
+        "2John.1.1\t2John.1.13-3John.1.15\t6",
+        "3John.1.15\tJohn.10.3\t1"
+      ],
+      "overlapping": 66,
+      "overlappingLines": [
+        "Lev.3.6\tLev.3.1-Lev.3.17\t3",
+        "Lev.3.12\tLev.3.7-Lev.3.17\t2",
+        "Lev.4.24\tLev.4.3-Lev.4.35\t2",
+        "Num.7.73\tNum.7.13-Num.7.88\t2",
+        "1Sam.2.1\t1Sam.2.1-1Sam.2.10\t3",
+        "2Sam.20.13\t2Sam.20.12-2Sam.20.13\t2",
+        "1Kgs.22.12\t1Kgs.22.6-1Kgs.22.15\t2",
+        "1Chr.6.4\t1Chr.6.4-1Chr.6.6\t2",
+        "1Chr.16.8\t1Chr.16.8-1Chr.16.22\t7",
+        "Ps.145.12\tPs.145.6-Ps.145.12\t2",
+        "Isa.37.1\tIsa.36.22-Isa.37.38\t2",
+        "Isa.38.1\tIsa.38.1-Isa.38.8\t21",
+        "Isa.39.1\tIsa.39.1-Isa.39.8\t2",
+        "Jer.12.17\tJer.12.14-Jer.12.17\t2",
+        "Jer.31.31\tJer.31.31-Jer.31.34\t38",
+        "Jer.48.15\tJer.48.8-Jer.48.25\t2",
+        "Jer.51.15\tJer.51.15-Jer.51.19\t4",
+        "Ezek.14.7\tEzek.14.7-Ezek.14.8\t2",
+        "Ezek.22.21\tEzek.22.20-Ezek.22.22\t2",
+        "Ezek.27.33\tEzek.27.12-Ezek.27.36\t2",
+        "Matt.5.3\tMatt.5.3-Matt.5.12\t45",
+        "Matt.12.31\tMatt.12.31-Matt.12.32\t9",
+        "Matt.13.1\tMatt.13.1-Matt.13.15\t6",
+        "Matt.15.29\tMatt.15.29-Matt.15.31\t3",
+        "Matt.17.14\tMatt.17.14-Matt.17.19\t2",
+        "Matt.19.1\tMatt.19.1-Matt.19.9\t4",
+        "Matt.20.25\tMatt.20.25-Matt.20.28\t13",
+        "Matt.22.2\tMatt.22.2-Matt.22.14\t1",
+        "Matt.23.13\tMatt.23.13-Matt.23.15\t4",
+        "Matt.23.34\tMatt.23.34-Matt.23.36\t3",
+        "Matt.25.14\tMatt.25.14-Matt.25.30\t13",
+        "Matt.26.63\tMatt.26.63-Matt.26.66\t2",
+        "Mark.1.16\tMark.1.16-Mark.1.20\t2",
+        "Mark.3.28\tMark.3.28-Mark.3.30\t5",
+        "Mark.6.14\tMark.6.14-Mark.6.29\t5",
+        "Mark.12.1\tMark.12.1-Mark.12.12\t1",
+        "Mark.14.61\tMark.14.61-Mark.14.63\t1",
+        "Luke.3.23\tLuke.3.23-Luke.3.27\t3",
+        "Luke.6.20\tLuke.6.20-Luke.6.24\t11",
+        "Luke.7.1\tLuke.7.1-Luke.7.10\t5",
+        "Luke.7.37\tLuke.7.37-Luke.7.39\t5",
+        "Luke.9.10\tLuke.9.10-Luke.9.17\t3",
+        "Luke.9.43\tLuke.9.43-Luke.9.45\t5",
+        "Luke.9.57\tLuke.9.57-Luke.9.60\t8",
+        "Luke.10.4\tLuke.10.4-Luke.10.12\t5",
+        "Luke.14.16\tLuke.14.16-Luke.14.24\t4",
+        "Luke.15.4\tLuke.15.4-Luke.15.7\t8",
+        "Luke.19.12\tLuke.19.12-Luke.19.27\t5",
+        "John.1.40\tJohn.1.40-John.1.42\t4",
+        "John.6.15\tJohn.6.15-John.6.21\t6",
+        "Acts.10.9\tActs.10.8-Acts.10.32\t2",
+        "Acts.10.17\tActs.10.7-Acts.10.19\t2",
+        "Acts.11.5\tActs.11.5-Acts.11.14\t2",
+        "Acts.16.10\tActs.16.10-Acts.16.17\t2",
+        "Acts.18.22\tActs.18.21-Acts.18.22\t2",
+        "1Cor.11.23\t1Cor.11.23-1Cor.11.25\t13",
+        "Eph.5.22\tEph.5.22-Eph.6.9\t16",
+        "Eph.6.13\tEph.6.11-Eph.6.17\t45",
+        "Titus.1.6\tTitus.1.6-Titus.1.8\t4",
+        "Phlm.1.9\tPhlm.1.1-Phlm.1.25\t2",
+        "Heb.7.24\tHeb.7.8-Heb.7.25\t3",
+        "2John.1.13\t2John.1.1-2John.1.13\t4",
+        "Rev.1.19\tRev.1.11-Rev.2.3\t1",
+        "Rev.8.7\tRev.8.7-Rev.8.12\t3",
+        "Rev.8.12\tRev.8.7-Rev.8.12\t6",
+        "Rev.17.1\tRev.17.1-Rev.17.17\t9"
+      ]
+    }
+  }
+]
