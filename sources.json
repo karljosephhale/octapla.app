@@ -32,7 +32,7 @@
     "url": "https://eBible.org/Scriptures/fraLSG_usfm.zip",
     "fetchedAt": "2026-09-21",
     "sha256": "3a0615e992ffd412b1afcaed50d146bba5ec8ae2378f04ca71459a4cd2d7cc33",
-    "corpusSha256": "b4cc2c793467d928f4e7b76f24cf625b5f2ce02035eee4b0125c1e4cee6d13b3",
+    "corpusSha256": "3ffa7e68b726885ff8ea205317019e333eced8b767022ad6a05f0799861bffd1",
     "rights": "Public Domain. \"Cette Bible est dans le domaine public. Il n'est pas protégé par copyright.\" (eBible.org). The eBible.org archive also contains book introductions, section headings and cross-references; ingestion keeps verse text only.",
     "attribution": {
       "line": "Public domain",
@@ -53,6 +53,20 @@
       "stanza": 61,
       "paragraph": 41
     },
+    "crossingSplits": [
+      "Genesis 25:19–20",
+      "Leviticus 14:19–20",
+      "Numbers 21:18–19",
+      "2 Samuel 3:34–35",
+      "2 Kings 25:21–22",
+      "Matthew 13:3–4",
+      "Matthew 15:5–6",
+      "Mark 10:38–39",
+      "Mark 14:69–70",
+      "Luke 20:23–24",
+      "John 10:13–14",
+      "Acts 22:9–10"
+    ],
     "bookNames": {
       "Gen": "Genèse",
       "Exod": "Exode",
@@ -138,7 +152,7 @@
     "url": "https://eBible.org/Scriptures/engbsb_usfm.zip",
     "fetchedAt": "2026-09-21",
     "sha256": "c065fa11decc416071985692b959dbd49506b188dc354e37805941f248b3da9e",
-    "corpusSha256": "af322d0293bade87c3f3f4412069871d53ec34eb5f7c70738e9c8b876444cb61",
+    "corpusSha256": "0a7a9655b026fe893234752c04963fc80c9ad6b5d9e6e3f68e718429d18764aa",
     "rights": "Public Domain. \"The Berean Bible and Majority Bible texts are officially dedicated to the public domain as of April 30, 2023.\" (berean.bible/terms.htm). The publishers ask that derivative works varying from the official text not use the Berean name; ingestion keeps the verse text unaltered (headings and footnotes are dropped, not changed). Attribution appreciated: Bible Hub, Discovery Bible, OpenBible.com and the Berean Bible Translation Committee.",
     "attribution": {
       "line": "Public domain",
@@ -177,6 +191,10 @@
       "Acts 24:7",
       "Acts 28:29",
       "Romans 16:24"
+    ],
+    "crossingSplits": [
+      "1 Samuel 19:1–2",
+      "Matthew 20:4–5"
     ]
   },
   {
@@ -187,7 +205,7 @@
     "url": "https://eBible.org/Scriptures/deu1912_usfm.zip",
     "fetchedAt": "2026-09-21",
     "sha256": "650a8192134a8f0057286c469754edcfaee4fbb18800621aee4563f3055bb39b",
-    "corpusSha256": "2ec665a6910ffd93ef624fbe0d398b170a160dde9b3cf6f041ea473e3a8969f5",
+    "corpusSha256": "226f5f78293327aad45408069cb09a3c718673025082381875783672ec09a0aa",
     "rights": "Public Domain (eBible.org). Ingestion keeps verse text only.",
     "attribution": {
       "line": "Public domain",
@@ -202,6 +220,30 @@
       "pinned": false
     },
     "verses": 31102,
+    "crossingSplits": [
+      "Genesis 31:53–54",
+      "Leviticus 13:5–6",
+      "Numbers 20:28–29",
+      "Judges 18:22–23",
+      "1 Samuel 17:37–38",
+      "1 Samuel 19:1–2",
+      "2 Samuel 13:21–22",
+      "1 Kings 22:21–22",
+      "1 Chronicles 17:9–10",
+      "2 Chronicles 9:16–17",
+      "Isaiah 37:9–10",
+      "Daniel 2:19–20",
+      "Daniel 2:28–29",
+      "Matthew 20:4–5",
+      "Matthew 27:4–5",
+      "Mark 12:14–15",
+      "Luke 7:18–19",
+      "John 4:46–47",
+      "John 10:11–12",
+      "1 Corinthians 7:33–34",
+      "2 Timothy 2:6–7",
+      "1 Peter 4:7–8"
+    ],
     "bookNames": {
       "Gen": "1. Mose",
       "Exod": "2. Mose",
@@ -287,7 +329,7 @@
     "url": "https://eBible.org/Scriptures/spaRV1909_usfm.zip",
     "fetchedAt": "2026-09-21",
     "sha256": "b5bfac87199a561fcbacb5e32be5d8d280934b1c6830088d9eb8c68ffbfbe711",
-    "corpusSha256": "17474de4335fe6a77426f0bedd9f5f4d7a72b04c1bb12d72441a42151d3d7767",
+    "corpusSha256": "83e3ba2b9d1c9b079a1c86edbe59ff29983b7b7bcc8ecc78b64b7cdd3e54f6ba",
     "rights": "Public Domain (eBible.org). Ingestion keeps verse text only.",
     "attribution": {
       "line": "Public domain",
@@ -321,6 +363,16 @@
       "Jonah 1:17",
       "Acts 19:41",
       "2 Corinthians 13:14"
+    ],
+    "crossingSplits": [
+      "Judges 6:29–30",
+      "Judges 11:39–40",
+      "1 Samuel 10:25–26",
+      "1 Samuel 15:24–25",
+      "1 Samuel 28:12–13",
+      "1 Chronicles 21:4–5",
+      "Acts 10:46–47",
+      "Acts 11:25–26"
     ],
     "bookNames": {
       "Gen": "Génesis",
@@ -429,6 +481,9 @@
           "petuchah": 13,
           "setumah": 77
         },
+        "crossingSplits": [
+          "1 Kings 22:21–22"
+        ],
         "sectionMarkers": {
           "endingAVerse": {
             "petuchah": 1165,
@@ -635,6 +690,9 @@
           "stanza": 127,
           "paragraph": 40
         },
+        "crossingSplits": [
+          "Matthew 15:5–6"
+        ],
         "subscriptionsLeftOut": [
           "Romans",
           "1 Corinthians",
@@ -667,7 +725,7 @@
         }
       }
     ],
-    "corpusSha256": "eb50fd3a524cb158d4473fc1749319a58f5b98f2f532b77e61f6181eb5c5af00",
+    "corpusSha256": "746615361a9cc1a5f138e0dc9a24de40ac87bcb491ac25dc77956a0d7d20d2a7",
     "rights": "Old Testament: the Westminster Leningrad Codex, Public Domain (eBible.org hebwlc, from the Westminster Hebrew Institute). New Testament: Public Domain. \"Manuscript comparison footnotes dedicated to the Public Domain by Adam Boyd. The Greek Textus Receptus New Testament is firmly in the Public Domain due to its age.\" (eBible.org grctr). Ingestion keeps verse text only: the Greek footnotes and the subscriptions after the letters are left out, and the Greek's Strong's numbers are kept apart from the text for the word study (D86); the Hebrew section markers פ and ס become structure. The mapping of the Hebrew onto the KJV was aligned with the help of the Open Scriptures Hebrew Bible's lemmas (CC BY 4.0), whose Strong's numbers are also kept for the word study, one per Hebrew word.",
     "attribution": {
       "line": "Public domain",
