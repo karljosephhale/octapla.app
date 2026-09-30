@@ -1,7 +1,7 @@
 [
   {
     "code": "kjv",
-    "name": "King James Version (1769)",
+    "name": "King James Version 1769",
     "language": "en",
     "source": "eBible.org eng-kjv2006",
     "url": "https://eBible.org/Scriptures/eng-kjv2006_usfm.zip",
@@ -458,8 +458,125 @@
     ]
   },
   {
+    "code": "rv1865",
+    "name": "Reina-Valera 1865",
+    "language": "es",
+    "source": "GitHub MC1171611/valera1865 at 49887d89a88c30360234e56ef1d129ee3227a2ed",
+    "url": "https://github.com/MC1171611/valera1865/archive/49887d89a88c30360234e56ef1d129ee3227a2ed.zip",
+    "fetchedAt": "2026-09-29",
+    "sha256": "6c74e7353a81c2f29095049dfb463138b1c0d5213bbd43b1ad51fefc0c3b0e59",
+    "subscriptionsLeftOut": [
+      "Romans",
+      "1 Corinthians",
+      "2 Corinthians",
+      "Galatians",
+      "Ephesians",
+      "Philippians",
+      "Colossians",
+      "1 Thessalonians",
+      "2 Thessalonians",
+      "1 Timothy",
+      "2 Timothy",
+      "Titus",
+      "Philemon",
+      "Hebrews"
+    ],
+    "corpusSha256": "f96354880f5ad03c524447bf7f96ad54fee1a979c91d2e7b9e0b33294e7e5aa0",
+    "rights": "Public domain text, digital edition CC0: \"El texto original de 1865 es de dominio público. El texto digital 2018 con ortografía actualizada se publica bajo la licencia Creative Commons CC0.\" (README.md at the pinned commit, read 2026-09-28). \"El texto digital fue preparado por y con Ministerios Valera 1865.\" Ingestion keeps verse text only; the edition’s own verse numbers, printed where they differ from the KJV’s (\\va), are kept in the text in brackets.",
+    "attribution": {
+      "line": "Public domain; digital edition CC0",
+      "notices": [
+        "The Reina-Valera of 1865, in the 2018 digital edition with updated spelling prepared by and with Ministerios Valera 1865 (valera1865.org). The 1865 text is in the public domain; the 2018 digital text is released under Creative Commons CC0.",
+        "Its verses follow the King James Version’s numbering; where the edition’s own numbers differ, they are shown in brackets, e.g. [2:1].",
+        "Octapla shows the verse text only."
+      ],
+      "source": {
+        "text": "GitHub (MC1171611/valera1865)",
+        "url": "https://github.com/MC1171611/valera1865"
+      },
+      "pinned": false
+    },
+    "verses": 31099,
+    "crossingSplits": [
+      "Judges 6:29–30",
+      "1 Samuel 10:25–26",
+      "1 Samuel 28:12–13",
+      "2 Kings 18:19–20",
+      "1 Chronicles 21:4–5"
+    ],
+    "bookNames": {
+      "Gen": "Génesis",
+      "Exod": "Éxodo",
+      "Lev": "Levítico",
+      "Num": "Números",
+      "Deut": "Deuteronomio",
+      "Josh": "Josué",
+      "Judg": "Jueces",
+      "Ruth": "Rut",
+      "1Sam": "1 Samuel",
+      "2Sam": "2 Samuel",
+      "1Kgs": "1 Reyes",
+      "2Kgs": "2 Reyes",
+      "1Chr": "1 Crónicas",
+      "2Chr": "2 Crónicas",
+      "Ezra": "Ésdras",
+      "Neh": "Nehemías",
+      "Esth": "Ester",
+      "Job": "Job",
+      "Ps": "Salmos",
+      "Prov": "Proverbios",
+      "Eccl": "Eclesiástes",
+      "Song": "Cantares",
+      "Isa": "Isaías",
+      "Jer": "Jeremías",
+      "Lam": "Lamentaciones",
+      "Ezek": "Ezequiel",
+      "Dan": "Daniel",
+      "Hos": "Oséas",
+      "Joel": "Joel",
+      "Amos": "Amós",
+      "Obad": "Abdías",
+      "Jonah": "Jonás",
+      "Mic": "Miquéas",
+      "Nah": "Nahum",
+      "Hab": "Habacuc",
+      "Zeph": "Sofonías",
+      "Hag": "Aggeo",
+      "Zech": "Zacarías",
+      "Mal": "Malaquías",
+      "Matt": "San Mateo",
+      "Mark": "San Márcos",
+      "Luke": "San Lúcas",
+      "John": "San Juan",
+      "Acts": "Los Actos",
+      "Rom": "Romanos",
+      "1Cor": "1 Corintios",
+      "2Cor": "2 Corintios",
+      "Gal": "Gálatas",
+      "Eph": "Efesios",
+      "Phil": "Filipenses",
+      "Col": "Colosenses",
+      "1Thess": "1 Tesalonicenses",
+      "2Thess": "2 Tesalonicenses",
+      "1Tim": "1 Timoteo",
+      "2Tim": "2 Timoteo",
+      "Titus": "Tito",
+      "Phlm": "Filemón",
+      "Heb": "Hebreos",
+      "Jas": "Santiago",
+      "1Pet": "1 San Pedro",
+      "2Pet": "2 San Pedro",
+      "1John": "1 San Juan",
+      "2John": "2 San Juan",
+      "3John": "3 San Juan",
+      "Jude": "San Júdas",
+      "Rev": "Revelación"
+    },
+    "bookNameOverrides": []
+  },
+  {
     "code": "asv",
-    "name": "American Standard Version (1901)",
+    "name": "American Standard Version 1901",
     "language": "en",
     "source": "eBible.org eng-asv",
     "url": "https://eBible.org/Scriptures/eng-asv_usfm.zip",
@@ -526,6 +643,57 @@
       "1 Samuel 19:1–2",
       "John 19:24–25",
       "1 John 5:6–7"
+    ]
+  },
+  {
+    "code": "web",
+    "name": "World English Bible",
+    "language": "en",
+    "source": "eBible.org engwebp",
+    "url": "https://eBible.org/Scriptures/engwebp_usfm.zip",
+    "fetchedAt": "2026-09-29",
+    "sha256": "c725155aa8192b954e552a0b08aa75f8e7b85e6e56f1eb22efd6d30f5b4aa3cc",
+    "movedPassages": [
+      "Romans 14:24–26 → Romans 16:25–27"
+    ],
+    "corpusSha256": "5180f0610c045114001056a824803eb448a6c3ffaf063169f9cd03376027e5c6",
+    "rights": "Public Domain (eBible.org, copr.htm, read 2026-09-28): \"The World English Bible is in the Public Domain. That means that it is not copyrighted. However, 'World English Bible' is a Trademark of eBible.org.\" \"All we ask is that if you CHANGE the actual text of the World English Bible in any way, you not call the result the World English Bible any more.\" The 2020 stable text edition, 66-book protocanon. Ingestion keeps verse text only, unaltered: headings and footnotes are left out.",
+    "attribution": {
+      "line": "Public domain",
+      "notices": [
+        "The World English Bible is in the public domain. “World English Bible” is a trademark of eBible.org; the text is shown unaltered.",
+        "The WEB prints Romans 16:25–27 after 14:23, as its 14:24–26. Octapla shows those verses under their own numbers beside KJV 16:25–27, with a line where the WEB prints them.",
+        "Octapla shows the verse text only."
+      ],
+      "source": {
+        "text": "eBible.org (engwebp)",
+        "url": "https://ebible.org/find/details.php?id=engwebp"
+      },
+      "pinned": false
+    },
+    "verses": 31098,
+    "breaksInsideVerses": {
+      "verses": 7756,
+      "line": 11954,
+      "stanza": 17,
+      "paragraph": 804
+    },
+    "omits": [
+      "Luke 17:36",
+      "Acts 8:37",
+      "Acts 15:34",
+      "Acts 24:7"
+    ],
+    "emptyVerseNumbers": [
+      "Luke 17:36",
+      "Acts 8:37",
+      "Acts 15:34",
+      "Acts 24:7",
+      "Romans 16:25"
+    ],
+    "crossingSplits": [
+      "1 Samuel 19:1–2",
+      "Matthew 23:13–14"
     ]
   },
   {
@@ -808,7 +976,7 @@
   },
   {
     "code": "biblialivre2018",
-    "name": "Bíblia Livre (2018)",
+    "name": "Bíblia Livre 2018",
     "language": "pt",
     "source": "eBible.org porbr2018",
     "url": "https://eBible.org/Scriptures/porbr2018_usfm.zip",
@@ -1088,7 +1256,7 @@
   },
   {
     "code": "vandyck1865",
-    "name": "Arabic Van Dyck (1865)",
+    "name": "Arabic Van Dyck 1865",
     "language": "ar",
     "direction": "rtl",
     "source": "eBible.org arb-vd",
@@ -1192,6 +1360,125 @@
         "printed": "١ كورنثوس",
         "shown": "رِسَالَةُ بُولُسَ ٱلرَّسُولِ ٱلأُولَى إِلَى أَهْلِ كُورِنْثُوسَ",
         "why": "The only \\toc2 that is abbreviated and unvowelled; every other book’s \\toc2 is its own \\h, the full vowelled title, and this is 1 Corinthians’ \\h."
+      }
+    ]
+  },
+  {
+    "code": "dutch1917",
+    "name": "De Heilige Schrift 1917",
+    "language": "nl",
+    "source": "eBible.org nld",
+    "url": "https://eBible.org/Scriptures/nld_usfm.zip",
+    "fetchedAt": "2026-09-29",
+    "sha256": "cbdd92a38bcad26bdd306605b35369fb683f677959ae3a0818e10ed5644185fc",
+    "corpusSha256": "759ddbcd2884baf83f66c8cf5324d7d92993378e2433d7e11d8e5267da39ac3f",
+    "rights": "Public Domain (eBible.org, copr.htm, read 2026-09-29): \"De Heilige Schrift 1917 … Public Domain\"; eBible names no society or edition. On King James numbering, with the Dutch verse numbers kept in the text in parentheses (\"(3:2)\"). Ingestion keeps verse text only.",
+    "attribution": {
+      "line": "Public domain",
+      "notices": [
+        "De Heilige Schrift, 1917. Public domain (eBible.org).",
+        "Its verses are numbered as the King James Version’s; where the Dutch numbering differs, the Dutch number is printed in the text in parentheses, as “(3:2)”.",
+        "Octapla shows the verse text only."
+      ],
+      "source": {
+        "text": "eBible.org (nld)",
+        "url": "https://ebible.org/find/details.php?id=nld"
+      },
+      "pinned": false
+    },
+    "verses": 31102,
+    "crossingSplits": [
+      "1 Samuel 19:1–2",
+      "Matthew 26:74–75",
+      "Luke 16:22–23",
+      "Revelation 18:16–17"
+    ],
+    "bookNames": {
+      "Gen": "Genesis",
+      "Exod": "Exodus",
+      "Lev": "Leviticus",
+      "Num": "Numeri",
+      "Deut": "Deuteronomium",
+      "Josh": "Jozua",
+      "Judg": "Richteren",
+      "Ruth": "Ruth",
+      "1Sam": "1 Samuël",
+      "2Sam": "2 Samuël",
+      "1Kgs": "1 Koningen",
+      "2Kgs": "2 Koningen",
+      "1Chr": "1 Kronieken",
+      "2Chr": "2 Kronieken",
+      "Ezra": "Ezra",
+      "Neh": "Nehemia",
+      "Esth": "Esther",
+      "Job": "Job",
+      "Ps": "Psalmen",
+      "Prov": "Spreuken",
+      "Eccl": "Prediker",
+      "Song": "Hooglied",
+      "Isa": "Jesaja",
+      "Jer": "Jeremia",
+      "Lam": "Klaagliederen",
+      "Ezek": "Ezechiël",
+      "Dan": "Daniël",
+      "Hos": "Hosea",
+      "Joel": "Joël",
+      "Amos": "Amos",
+      "Obad": "Obadja",
+      "Jonah": "Jona",
+      "Mic": "Micha",
+      "Nah": "Nahum",
+      "Hab": "Habakuk",
+      "Zeph": "Zefanja",
+      "Hag": "Haggaï",
+      "Zech": "Zacharia",
+      "Mal": "Maleachi",
+      "Matt": "Mattheüs",
+      "Mark": "Markus",
+      "Luke": "Lukas",
+      "John": "Johannes",
+      "Acts": "Handelingen",
+      "Rom": "Romeinen",
+      "1Cor": "1 Corinthiërs",
+      "2Cor": "2 Corinthiërs",
+      "Gal": "Galaten",
+      "Eph": "Efeziërs",
+      "Phil": "Filippenzen",
+      "Col": "Colossenzen",
+      "1Thess": "1 Thessalonicenzen",
+      "2Thess": "2 Thessalonicenzen",
+      "1Tim": "1 Timotheüs",
+      "2Tim": "2 Timotheüs",
+      "Titus": "Titus",
+      "Phlm": "Filémon",
+      "Heb": "Hebreeën",
+      "Jas": "Jakobus",
+      "1Pet": "1 Petrus",
+      "2Pet": "2 Petrus",
+      "1John": "1 Johannes",
+      "2John": "2 Johannes",
+      "3John": "3 Johannes",
+      "Jude": "Judas",
+      "Rev": "Openbaring"
+    },
+    "bookNameOverrides": [
+      {
+        "book": "Num",
+        "printed": "Numberi",
+        "shown": "Numeri",
+        "why": "A typing error in the source’s \\toc2."
+      },
+      {
+        "book": "Judg",
+        "printed": "Richtere",
+        "shown": "Richteren",
+        "why": "A typing error in the source’s \\toc2."
+      },
+      {
+        "book": "2Cor",
+        "printed": "2 Corinthiër",
+        "shown": "2 Corinthiërs",
+        "why": "A typing error in the source’s \\toc2 (1 Corinthians is “1 Corinthiërs”)."
       }
     ]
   },
