@@ -1942,7 +1942,7 @@
     "fetchedAt": "2026-09-26",
     "sha256": "869945af7c001b34d2f3c7ce2f95cbe6308573bcd73f024a9acc0926763c04f2",
     "file": "lexicon-stepbible.tsv",
-    "corpusSha256": "3b235961e310904437e9930f1cd0c374c29b532a32793a973b1de91b9d08d9c3",
+    "corpusSha256": "90d504ed5bcae383406949e1d005972fd6393737f22ae8ec8751770bad1de136",
     "rights": "CC BY 4.0: \"Data created by www.STEPBible.org based on work at Tyndale House Cambridge\". The glosses were created by Tyndale House scholars. The number, lemma, transliteration and gloss are kept, and, for the word study (D86), TBESG's definitions (Abbott-Smith's) and the notes in both files that one number is a form or spelling of another. TBESH's definitions (Abridged BDB, Online Bible) are never read.",
     "attribution": {
       "line": "Lemmas and glosses from STEP Bible, CC BY",
